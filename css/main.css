@@ -1,0 +1,42 @@
+body {
+  font-family: ''Abril Fatface'', cursive; text-align: left;
+  font-size: 16px;
+
+  padding: 10px;
+}
+
+.hidden { display: none; }
+
+main > h1 { margin: 10px 0 10px 10px;  font-size: 4em; font-weight: bolder; color: green; text-align: center;}
+
+p { margin-bottom: 6.5em; line-height: 1.5; font-family: 'Squada One', cursive; font-size: 2em;
+font-style: italic; color: red; }
+
+
+img{ width: 50%; 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+   }
+
+
+
+h2:first-of-type {font-family: 'Squada One', cursive; font-weight: bold; width: 100%; text-align: center; font-size: 4em;
+   font-style: italic; color: Blue;
+ }
+
+ 
+
+h3:first-of-type {font-family: 'Squada One', cursive; font-weight: bold; width: 100%; text-align: center; font-size: 4em;
+font-style: italic; color: orange;
+}
+
+
+h4:first-of-type {font-family: 'Squada One', serif; font-weight: bold; width: 100%; text-align: center; font-size: 4em;
+font-style: italic; color: black;
+}
+
+
+h5:first-of-type {font-family: 'Squada One', serif; font-weight: bold; width: 100%; text-align: center; font-size: 4em;
+font-style: italic; color: purple;
+}
